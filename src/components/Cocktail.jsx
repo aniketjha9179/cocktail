@@ -26,8 +26,8 @@ useGSAP(()=>{
 
   return (
     <section id='cocktails' className='noisy' >
-        <img src="/public/images/cocktail-left-leaf.png" alt="" id='c-left-leaf' />
-        <img src="/public/images/cocktail-right-leaf.png" alt="" id='c-right-leaf' />
+        <img src="/images/cocktail-left-leaf.png" alt="" id='c-left-leaf' />
+        <img src="/images/cocktail-right-leaf.png" alt="" id='c-right-leaf' />
         <div className='list'>
             <div className='popular'>
                 <h2>Most Popular cocktails:</h2>
